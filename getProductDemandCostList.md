@@ -129,7 +129,7 @@ API : /billing/v1/cost/getProductDemandCostList?responseFormatType=json
   </tr>
   <tr>
     <td>promotionDiscountAmount</td>
-    <td></td>
+    <td>프로모션 할인</td>
   </tr> 
   <tr>
     <td>etcDiscountAmount</td>
@@ -137,7 +137,7 @@ API : /billing/v1/cost/getProductDemandCostList?responseFormatType=json
   </tr>  
   <tr>
     <td>productDiscountAmount</td>
-    <td></td>
+    <td>제품 할인</td>
   </tr>  
   <tr>
     <td>creditDiscountAmount</td>
