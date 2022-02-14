@@ -45,8 +45,11 @@ Cost And Usage
 ## 오퍼레이션
 
 API :
-[/billing/v1/cost/getProductDemandCostList](https://github.com/openstack9332/billing/blob/main/getProductDemandCostList.md)
 
+[/billing/v1/cost/getProductDemandCostList](https://github.com/openstack9332/billing/blob/main/getProductDemandCostList.md)
+ 
+[/billing/v1/cost/getDemandCostList]
+ 
 상품 청구 비용 리스트 조회
 
  
