@@ -46,6 +46,8 @@ Cost And Usage
 
 API :
 
+[/billing/v1/cost/getContractDemandCostList](getContractDemandCostList.md)
+ 
 [/billing/v1/cost/getProductDemandCostList](https://github.com/openstack9332/billing/blob/main/getProductDemandCostList.md)
  
 [/billing/v1/cost/getDemandCostList](getDemandCostList.md)
