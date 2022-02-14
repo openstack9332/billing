@@ -46,11 +46,21 @@ Cost And Usage
 
 API :
  
+[/billing/v1/cost/getCostRelationCodeList](getCostRelationCodeList)
+
+비용연관코드 리스트를 조회합니다.
+ 
 [/billing/v1/cost/getContractUsageList](getContractUsageList.md)
  
-[/billing/v1/cost/getContractDemandCostList](getContractDemandCostList.md)
+계약 사용량 리스트를 조회합니다.
  
+[/billing/v1/cost/getContractDemandCostList](getContractDemandCostList.md)
+
+계약 청구 비용 리스트를 조회합니다.
+
 [/billing/v1/cost/getProductDemandCostList](https://github.com/openstack9332/billing/blob/main/getProductDemandCostList.md)
+ 
+상품 청구 비용 리스트를 조회
  
 [/billing/v1/cost/getDemandCostList](getDemandCostList.md)
  
