@@ -145,7 +145,7 @@ API : /billing/v1/cost/getProductDemandCostList?responseFormatType=json
   </tr>
   <tr>
     <td>defaultAmount</td>
-    <td></td>
+    <td>기본 요금</td>
   </tr>
   <tr>
     <td>useAmount</td>
