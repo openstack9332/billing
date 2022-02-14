@@ -46,7 +46,7 @@ Cost And Usage
 
 API :
  
-[/billing/v1/cost/getCostRelationCodeList](getCostRelationCodeList)
+[/billing/v1/cost/getCostRelationCodeList](getCostRelationCodeList.md)
 
 비용연관코드 리스트를 조회합니다.
  
